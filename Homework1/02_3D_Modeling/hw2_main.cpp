@@ -619,6 +619,7 @@ int main(int argc, const char * argv[])
 	static const GLfloat clear_color[] = { 0.6f, 0.7f, 1.0f, 1.0f };
 	static const GLfloat clear_depth[] = { 1.0f, 1.0f, 1.0f, 1.0f };
 
+	float test = 0.0;
 
 	projectionMatrix = glm::perspective(1.1f, (float)800 / (float)600, 0.1f, 100.f);
 	modelMatrix = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, 0.0f)); // Create our model matrix which will halve the size of our model
