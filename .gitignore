@@ -1,0 +1,15 @@
+*.vcxproj
+*.vcxproj.filters
+Homework1/02_3D_Modeling/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.command.1.tlog
+Homework1/02_3D_Modeling/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate
+*.sln
+Homework1/02_3D_Modeling/HW2_Program.sdf
+*.tlog
+*.cmake
+*.rar
+*CMakeCache.txt
+*/CMakeFiles
+*/CMakeFiles/*
+/CMakeFiles
+Homework1/02_3D_Modeling/CMakeFiles/
+Homework1/~$p.docx
